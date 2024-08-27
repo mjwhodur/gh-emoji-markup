@@ -5,8 +5,8 @@ People
 
 # People
 
-| Emoji | Code | Emoji | Code | Emoji | Code |
-|-------|------|-------|------|-------|------|
+| Emoji | Code | Emoji | Code |
+|-------|------|-------|------|
 | :bowtie: | `:bowtie:` | :smile: | `:smile:` | :laughing: | `:laughing:` |
 | :blush: | `:blush:` | :smiley: | `:smiley:` | :relaxed: | `:relaxed:` |
 | :smirk: | `:smirk:` | :heart_eyes: | `:heart_eyes:` | :kissing_heart: | `:kissing_heart:` |
@@ -50,13 +50,13 @@ People
 | :running: | `:running:` | :couple: | `:couple:` | :family: | `:family:` |
 | :two_men_holding_hands: | `:two_men_holding_hands:` | :two_women_holding_hands: | `:two_women_holding_hands:` | :dancer: | `:dancer:` |
 | :dancers: | `:dancers:` | :ok_woman: | `:ok_woman:` | :no_good: | `:no_good:` |
-| :information_desk_person: | `:information_desk_person:` | :raising_hand: | `:raising_hand:` | :bride_with_veil: | `:bride_with_veil:` |
-| :person_with_pouting_face: | `:person_with_pouting_face:` | :person_frowning: | `:person_frowning:` | :bow: | `:bow:` |
+| :information_desk_person: | `:information_desk_person:` | :raising_hand: | `:raising_hand:` | :bride_with_veil: | `:bride_with_veil:` | 
+||||| :bow: | `:bow:` |
 | :couplekiss: | `:couplekiss:` | :couple_with_heart: | `:couple_with_heart:` | :massage: | `:massage:` |
 | :haircut: | `:haircut:` | :nail_care: | `:nail_care:` | :boy: | `:boy:` |
 | :girl: | `:girl:` | :woman: | `:woman:` | :man: | `:man:` |
 | :baby: | `:baby:` | :older_woman: | `:older_woman:` | :older_man: | `:older_man:` |
-| :person_with_blond_hair: | `:person_with_blond_hair:` | :man_with_gua_pi_mao: | `:man_with_gua_pi_mao:` | :man_with_turban: | `:man_with_turban:` |
+| :man_with_gua_pi_mao: | `:man_with_gua_pi_mao:` | :man_with_turban: | `:man_with_turban:` |
 | :construction_worker: | `:construction_worker:` | :cop: | `:cop:` | :angel: | `:angel:` |
 | :princess: | `:princess:` | :smiley_cat: | `:smiley_cat:` | :smile_cat: | `:smile_cat:` |
 | :heart_eyes_cat: | `:heart_eyes_cat:` | :kissing_cat: | `:kissing_cat:` | :smirk_cat: | `:smirk_cat:` |
@@ -74,9 +74,9 @@ People
 | :suspect: | `:suspect:` | :trollface: | `:trollface:` |
 
 Nature
-
+|||
+|---|---|
 | :sunny: `:sunny:` | :umbrella: `:umbrella:` | :cloud: `:cloud:` |
-|---|---|---|
 | :snowflake: `:snowflake:` | :snowman: `:snowman:` | :zap: `:zap:` |
 | :cyclone: `:cyclone:` | :foggy: `:foggy:` | :ocean: `:ocean:` |
 | :cat: `:cat:` | :dog: `:dog:` | :mouse: `:mouse:` |
@@ -114,12 +114,12 @@ Nature
 | :first_quarter_moon_with_face: `:first_quarter_moon_with_face:` | :moon: `:moon:` | :earth_africa: `:earth_africa:` |
 | :earth_americas: `:earth_americas:` | :earth_asia: `:earth_asia:` | :volcano: `:volcano:` |
 | :milky_way: `:milky_way:` | :partly_sunny: `:partly_sunny:` | :octocat: `:octocat:` |
-| :squirrel: `:squirrel:` |
 
 Objects
 
+|||
+|-|-|
 | :bamboo: `:bamboo:` | :gift_heart: `:gift_heart:` | :dolls: `:dolls:` |
-|---|---|---|
 | :school_satchel: `:school_satchel:` | :mortar_board: `:mortar_board:` | :flags: `:flags:` |
 | :fireworks: `:fireworks:` | :sparkler: `:sparkler:` | :wind_chime: `:wind_chime:` |
 | :rice_scene: `:rice_scene:` | :jack_o_lantern: `:jack_o_lantern:` | :ghost: `:ghost:` |
@@ -209,8 +209,9 @@ Objects
 
 Places
 
+|||
+|---|---|
 | :house: `:house:` | :house_with_garden: `:house_with_garden:` | :school: `:school:` |
-|---|---|---|
 | :office: `:office:` | :post_office: `:post_office:` | :hospital: `:hospital:` |
 | :bank: `:bank:` | :convenience_store: `:convenience_store:` | :love_hotel: `:love_hotel:` |
 | :hotel: `:hotel:` | :wedding: `:wedding:` | :church: `:church:` |
@@ -248,9 +249,9 @@ Places
 | :de: `:de:` |
 
 Symbols
-
+|||
+|---|---|
 | :one: `:one:` | :two: `:two:` | :three: `:three:` |
-|---|---|---|
 | :four: `:four:` | :five: `:five:` | :six: `:six:` |
 | :seven: `:seven:` | :eight: `:eight:` | :nine: `:nine:` |
 | :keycap_ten: `:keycap_ten:` | :1234: `:1234:` | :zero: `:zero:` |
@@ -309,9 +310,56 @@ Symbols
 | :white_flower: `:white_flower:` | :100: `:100:` | :heavy_check_mark: `:heavy_check_mark:` |
 | :ballot_box_with_check: `:ballot_box_with_check:` | :radio_button: `:radio_button:` | :link: `:link:` |
 | :curly_loop: `:curly_loop:` | :wavy_dash: `:wavy_dash:` | :part_alternation_mark: `:part_alternation_mark:` |
-| :trident: `:trident:` | :black_square: `:black_square:` | :white_square: `:white_square:` |
+| :trident: `:trident:` | :white_square: `:white_square:` |
 | :white_check_mark: `:white_check_mark:` | :black_square_button: `:black_square_button:` | :white_square_button: `:white_square_button:` |
 | :black_circle: `:black_circle:` | :white_circle: `:white_circle:` | :red_circle: `:red_circle:` |
 | :large_blue_circle: `:large_blue_circle:` | :large_blue_diamond: `:large_blue_diamond:` | :large_orange_diamond: `:large_orange_diamond:` |
 | :small_blue_diamond: `:small_blue_diamond:` | :small_orange_diamond: `:small_orange_diamond:` | :small_red_triangle: `:small_red_triangle:` |
 | :small_red_triangle_down: `:small_red_triangle_down:` | :shipit: `:shipit:` |
+
+## Added later
+
+|||
+|---|---|
+|:vulcan_salute: `:vulcan_salute:` | :keyboard: `:keyboard:` | :crossed_swords: `:crossed_swords:` |
+| :bucket: `:bucket:` | :fishsticks: `:fishsticks:` | :accessibility: `:accessibility:` |
+| :dependabot: `:dependabot:` | :electron: `:electron:` | :octocat: `:octocat:` |
+
+## Countries
+
+
+## Countries
+
+| Emoji | Code | Country |
+|-------|------|---------|
+| 🇦🇫 | `:afghanistan:` | Afghanistan |
+| 🇦🇱 | `:albania:` | Albania |
+| 🇩🇿 | `:algeria:` | Algeria |
+| 🇦🇩 | `:andorra:` | Andorra |
+| 🇦🇴 | `:angola:` | Angola |
+| 🇦🇷 | `:argentina:` | Argentina |
+| 🇦🇺 | `:australia:` | Australia |
+| 🇦🇹 | `:austria:` | Austria |
+| 🇧🇷 | `:brazil:` | Brazil |
+| 🇨🇦 | `:canada:` | Canada |
+| 🇨🇳 | `:cn:` | China |
+| 🇫🇷 | `:fr:` | France |
+| 🇩🇪 | `:de:` | Germany |
+| 🇮🇳 | `:india:` | India |
+| 🇮🇩 | `:indonesia:` | Indonesia |
+| 🇮🇹 | `:it:` | Italy |
+| 🇯🇵 | `:jp:` | Japan |
+| 🇲🇽 | `:mexico:` | Mexico |
+| 🇳🇱 | `:netherlands:` | Netherlands |
+| 🇵🇱 | `:poland:` | Poland |
+| 🇵🇹 | `:portugal:` | Portugal |
+| 🇷🇺 | `:ru:` | Russia |
+| 🇪🇸 | `:es:` | Spain |
+| 🇸🇪 | `:sweden:` | Sweden |
+| 🇨🇭 | `:switzerland:` | Switzerland |
+| 🇹🇷 | `:tr:` | Turkey |
+| 🇬🇧 | `:gb:` | United Kingdom |
+| 🇺🇸 | `:us:` | United States |
+
+Note: This is not an exhaustive list. There are many more country flags available as emoji.
+
